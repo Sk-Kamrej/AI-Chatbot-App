@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lumora</string>
+    <string name="app_subtitle">AI Assistant</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="voice_input">Voice Input</string>
+    <string name="speak">Listen</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="chat_cleared">Chat cleared</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="speech_not_supported">Speech recognition is not supported on this device.</string>
+    <string name="permission_mic_required">Microphone permission is required for voice input.</string>
+
+    <!-- Welcome screen -->
+    <string name="welcome_title">Hello! I\'m Lumora</string>
+    <string name="welcome_subtitle">How can I help you today? Ask questions, summarize text, or explore ideas.</string>
+    <string name="suggestion_1">Explain quantum computing in simple terms</string>
+    <string name="suggestion_2">Write a Kotlin coroutine example</string>
+    <string name="suggestion_3">Give me 3 healthy dinner recipes</string>
+
+    <string name="thinking">Lumora is thinking...</string>
+    <string name="error_empty_input">Please enter a message</string>
+    <string name="error_api_key_missing">Groq API Key is missing! Please set GROQ_API_KEY in local.properties.</string>
+</resources>

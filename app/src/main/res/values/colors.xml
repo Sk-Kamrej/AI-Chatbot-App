@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary -->
+    <color name="primary">#6750A4</color>
+    <color name="primary_container">#EADDFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#21005D</color>
+
+    <!-- Surfaces & Backgrounds -->
+    <color name="screen_background">#FDF8FF</color>
+    <color name="surface_header">#FFFFFF</color>
+
+    <!-- Chat Bubbles -->
+    <color name="user_bubble_bg">#6750A4</color>
+    <color name="user_bubble_text">#FFFFFF</color>
+
+    <color name="ai_bubble_bg">#F3EDF7</color>
+    <color name="ai_bubble_text">#1D1B20</color>
+
+    <!-- Input Box -->
+    <color name="input_bg">#F7F2FA</color>
+    <color name="input_stroke">#E6E0E9</color>
+    <color name="input_text">#1D1B20</color>
+    <color name="input_hint">#79747E</color>
+
+    <!-- Chips / Welcome Suggestions -->
+    <color name="chip_bg">#F3EDF7</color>
+    <color name="chip_stroke">#E6E0E9</color>
+    <color name="chip_text">#49454F</color>
+
+    <!-- Generic Helpers -->
+    <color name="text_secondary">#49454F</color>
+    <color name="text_tertiary">#79747E</color>
+    <color name="icon_tint">#49454F</color>
+    <color name="error_color">#B3261E</color>
+</resources>
