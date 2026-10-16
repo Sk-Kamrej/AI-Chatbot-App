@@ -108,12 +108,13 @@ AI-Chatbot-App/
 └── README.md
 ```
 
-*The structure above is illustrative; your actual project may contain additional files or directories.*
 
 ## 🎓 Internship Details
 
 **Program:** App Dev With AI Internship 2026
+
 **Organization:** Global Internship Mission
+
 **Final Assignment:** AI Chatbot Application
 
 This project was developed as part of the App Dev With AI Internship 2026 offered by Global Internship Mission. 
